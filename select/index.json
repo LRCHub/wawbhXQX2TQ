@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Yesterday Once More",
+  "base_artist": "Carpenters",
+  "createdAt": "2026-02-23T03:43:24.925375Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yesterday Once More",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/01_Yesterday_Once_More_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yesterday Once More",
+      "artist": "The Carpenters",
+      "has_synced": true,
+      "path": "select/02_Yesterday_Once_More_The_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yesterday Once More (1991 Remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/03_Yesterday_Once_More_(1991_Remix)_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yesterday Once More (single mix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/04_Yesterday_Once_More_(single_mix)_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yesterday Once More",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/05_Yesterday_Once_More_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yesterday Once More / Nothing Remains the Same",
+      "artist": "the Spinners",
+      "has_synced": false,
+      "path": "select/06_Yesterday_Once_More___Nothing_Remains_the_Same_the_Spinners.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yesterday Once More",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/07_Yesterday_Once_More_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yesterday Once More",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/08_Yesterday_Once_More_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yesterday Once More",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/09_Yesterday_Once_More_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yesterday Once More - Reprise",
+      "artist": "Carpenters",
+      "has_synced": false,
+      "path": "select/10_Yesterday_Once_More_-_Reprise_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yesterday Once More (Reprise)",
+      "artist": "Carpenters",
+      "has_synced": false,
+      "path": "select/11_Yesterday_Once_More_(Reprise)_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "06 - Yesterday Once More",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/12_06_-_Yesterday_Once_More_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "15 - Yesterday Once More (Reprise)",
+      "artist": "Carpenters",
+      "has_synced": false,
+      "path": "select/13_15_-_Yesterday_Once_More_(Reprise)_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yesterday Once More - 1985 Remix",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/14_Yesterday_Once_More_-_1985_Remix_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Yesterday Once More (Remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/15_Yesterday_Once_More_(Remix)_Carpenters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_01_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_02_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_03_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "yesterday once more",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_04_yesterday_once_more_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_05_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_06_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_07_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_08_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_09_Yesterday_Once_More_カーペンターズ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Yesterday Once More",
+      "artist": "カーペンターズ",
+      "has_synced": false,
+      "path": "select/pl_10_Yesterday_Once_More_カーペンターズ.txt"
+    }
+  ]
+}
